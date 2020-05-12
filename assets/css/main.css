@@ -34,7 +34,7 @@
   box-sizing: border-box; }
 
 .about__bkgrnd {
-  background-image: url("../profile/images/me.jpg"); }
+  background-image: url("/profile/assets/images/me.jpg"); }
 
 .projects__bkgrnd {
   background-image: url("../images/projects.jpg"); }

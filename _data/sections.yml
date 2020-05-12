@@ -1,23 +1,23 @@
 projects:
-  url: /projects
+  url: /profile/projects
   heading: Projects
   words: A list of projects and experiments
   class: m7 projects
   border: projects
 about:
-  url: /about
+  url: /profile/about
   heading: Me
   words: Hi, I'm a programmer
   class: m5 about
   border: about
 resume:
-  url: /resume
+  url: /profile/resume
   heading: Resume
   words: Check out or download my resume
   class: m6 algorithms
   border: algorithms
 contact:
-  url: /contact
+  url: /profile/contact
   heading: Contact
   words: Feel free to shoot me an email
   class: m6 contact
